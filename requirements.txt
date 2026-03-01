@@ -1,5 +1,5 @@
 flask
-numpy
+numpy==1.26.4
 pillow
 tflite-runtime==2.13.0
 gunicorn
